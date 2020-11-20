@@ -1,0 +1,1 @@
+This folder is full of the files I used to teach how to create an Invaders arcade game replica during my time as a coding instructor. Though I spent a lot of time building this project and making fun edits with students I am not the original creator and the original video can be found at https://youtu.be/FfWpgLFMI7w .
