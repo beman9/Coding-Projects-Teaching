@@ -3,7 +3,7 @@ from pytube import YouTube as yt
 
 
 #where to save 
-SAVE_PATH = 'C:\\Users\\Melinda B\\Downloads\\'
+SAVE_PATH = 'C:\\Users\\User\\Downloads\\'
 
 
 
